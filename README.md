@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R3DB0ii
-- 👀 I’m interested in Ethical Haking & Game Dev
-- 🌱 I’m currently learning Python, C#, Lua, CGI
+- 👀 I’m interested in Ethical Haking & Software Development
+- 🌱 I’m currently learning Python, C, ASMx86, Lua, Bash/PS, CGI
 - 📫 dellarosalavoro@gmail.com
 
 <!---
