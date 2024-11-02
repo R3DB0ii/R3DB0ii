@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @R3DB0ii
 - 👀 I’m interested in Ethical Haking & Software Development
-- 🌱 I’m currently learning Python, C, ASMx86, Lua, Bash/PS, CGI
+- 🌱 I’m currently learning Python, C, Bash/PS, CGI
+- 🎶 Love music, sports and engineering
 - 📫 dellarosalavoro@gmail.com
 
 <!---
