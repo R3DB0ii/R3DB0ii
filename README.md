@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R3DB0ii
+- 👋 Hi, my name is Mamiliano
 - 👀 I’m interested in Ethical Haking & Software Development
 - 🌱 I’m currently learning Python, C, Bash/PS, CGI
 - 🎶 Love music, sports and engineering
